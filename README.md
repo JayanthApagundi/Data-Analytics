@@ -1,2 +1,2 @@
 # Data-Analytics
-NPTEL Course practice sessions 
+NPTEL Course- Practice Sessions 
